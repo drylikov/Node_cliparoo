@@ -19,4 +19,3 @@ clip('Hello "World"', function(err){
   console.log('copied!');
 });
 ```
-
