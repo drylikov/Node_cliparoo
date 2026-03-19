@@ -1,4 +1,4 @@
-# Cliparoo
+# Cliparoo.
 
   Sorry for the stupid name. Copies strings to the clipboard, for CLIs.
 
