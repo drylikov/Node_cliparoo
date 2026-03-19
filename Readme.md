@@ -72,4 +72,3 @@ clip('Hello "World"', function(err){
 
 
 
-
